@@ -1,10 +1,10 @@
 <h1 align="center">Hi there! 👋</h1>
 <p align="center">
   <a href="https://https://github.com/LynetteLiu2333">
-    <img src="https://img.shields.io/badge/GitHub-@joyshaheb-blue?style=flat-square&logo=github">
+    <img src="https://img.shields.io/badge/GitHub-@LynetteLiu2333-blue?style=flat-square&logo=github">
   </a>
   <a href="mailto:mengyaoliu23333@gmail.com">
-    <img src="https://img.shields.io/badge/Email-khondokoralam%40gmail.com-%23C25D7F?style=flat-square&logo=gmail">
+    <img src="https://img.shields.io/badge/Email-mengyaoliu23333%40gmail.com-%23C25D7F?style=flat-square&logo=gmail">
   </a>
 </p>
 
