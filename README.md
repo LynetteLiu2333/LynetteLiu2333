@@ -3,6 +3,7 @@
   <a href="https://github.com/LynetteLiu2333">
     <img src="https://img.shields.io/badge/GitHub-@LynetteLiu2333-blue?style=flat-square&logo=github">
   </a>
+  
   <a href="mailto:mengyaoliu23333@gmail.com">
     <img src="https://img.shields.io/badge/Email-mengyaoliu23333%40gmail.com-%23C25D7F?style=flat-square&logo=gmail">
   </a>
