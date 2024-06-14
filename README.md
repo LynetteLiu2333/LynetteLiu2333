@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 👋</h1>
 <p align="center">
-  <a href="https://https://github.com/LynetteLiu2333">
+  <a href="[https://https://github.com/LynetteLiu2333](https://github.com/LynetteLiu2333)">
     <img src="https://img.shields.io/badge/GitHub-@LynetteLiu2333-blue?style=flat-square&logo=github">
   </a>
   <a href="mailto:mengyaoliu23333@gmail.com">
