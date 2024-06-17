@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hi there!!! 👋😊😊</h1>
-<h3 align="center">Welcome to my GitHub profile! I'm Mengyao Liu, an aspiring Frontend Developer. Looking forward to expand my knowledge as I learn new languages and tools. Currently learning Typescript, Cloud, System Design & Software Architecture/Infrastructure to expand my knowledge.</h3>
+<h4 align="center">Welcome to my GitHub profile! I'm Mengyao Liu, an aspiring Frontend Developer on a journey to master new languages and tools. Right now, I'm diving into TypeScript, cloud magic, system design, and the art of software architecture/infrastructure. Can't wait to level up my skills and create some awesome stuff!</h4>
 
 ## 🌐 Languages:
 
