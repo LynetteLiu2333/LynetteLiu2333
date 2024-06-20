@@ -44,7 +44,10 @@
 
 ## 📚 Featured Projects
 
-(Need to be developed in the future ......)
+- [🛋️ Online-Furniture-Store](https://github.com/LynetteLiu2333/Online-Furniture-Store)
+- [📸 Royalty-Free-Images-Gallery](https://github.com/LynetteLiu2333/Royalty-Free-Images-Gallery)
+- [🃏 Blackjack-Card-Game](https://github.com/LynetteLiu2333/Blackjack-Card-Game)
+- [📝 Shopping-List-Mobile-App](https://github.com/LynetteLiu2333/Shopping-List-Mobile-App)
 
 ## 📫 Get in Touch
 
