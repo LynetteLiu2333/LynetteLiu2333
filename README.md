@@ -44,6 +44,7 @@
 
 ## 📚 Featured Projects
 
+- [🧝‍♂️ LoTR-RESTful API](https://github.com/LynetteLiu2333/LoTR-RESTful-API)
 - [🛋️ Online-Furniture-Store](https://github.com/LynetteLiu2333/Online-Furniture-Store)
 - [📸 Royalty-Free-Images-Gallery](https://github.com/LynetteLiu2333/Royalty-Free-Images-Gallery)
 - [🃏 Blackjack-Card-Game](https://github.com/LynetteLiu2333/Blackjack-Card-Game)
@@ -51,6 +52,5 @@
 
 ## 📫 Get in Touch
 
-- [LinkedIn](xxx)
 - [Portfolio Website](xxx)
 - Email: <mengyaoliu23333@gmail.com>
