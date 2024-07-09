@@ -3,6 +3,7 @@
 </p>
 
 <h1 align="center">Hi there!!! 👋😊😊</h1>
+![Avatar_ML](Avatar_ML.jpg)
 <h4 align="center">Welcome to my GitHub profile! I'm 🌟Mengyao Liu🌟, an aspiring Frontend Developer on a journey to master new languages and tools. Right now, I'm diving into React, cloud magic, system design, and the art of software architecture/infrastructure. Can't wait to level up my skills and create some awesome stuff!</h4>
 
 ## 🌐 Languages:
