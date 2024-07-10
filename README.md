@@ -48,7 +48,7 @@
 - [📸 Royalty-Free-Images-Gallery](https://github.com/LynetteLiu2333/Royalty-Free-Images-Gallery)
 - [🃏 Blackjack-Card-Game](https://github.com/LynetteLiu2333/Blackjack-Card-Game)
 - [📝 Shopping-List-Mobile-App](https://github.com/LynetteLiu2333/Shopping-List-Mobile-App)
-- [📝<i class="fa-brands fa-react"></i> Shopping-List-Mobile-React-App](https://github.com/LynetteLiu2333/Shopping-List-Mobile-React-App)
+- [📝 Shopping-List-Mobile-React-App](https://github.com/LynetteLiu2333/Shopping-List-Mobile-React-App)
 
 ## 📫 Get in Touch
 
